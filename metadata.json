@@ -1,0 +1,6 @@
+{
+  "name": "Lumière Beauty Studio",
+  "description": "Premium luxury 3D salon destination offering bespoke hair styling, couture color artistry, facial therapies, and immersive spatial salon experiences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
